@@ -1,5 +1,5 @@
 # Personal_Encryption_Method_PUBLIC
-## smol project for playing around with numbers
+### smol project for playing around with numbers
 
 Own encryption method using prime numbers, dictionaries, keys, and factoring.
 
