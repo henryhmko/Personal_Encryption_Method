@@ -1,8 +1,9 @@
 # Personal_Encryption_Method_PUBLIC
-My own encryption method using prime numbers, dictionaries, and factoring.
+## Own encryption method using prime numbers, dictionaries, keys, and factoring.
 
+smol project for playing around with numbers
 Encoding methods written in a separate, private repo.
-This repo only contains a README file containing decoded messages for anyone to attempt deciphering.
+This repo only contains a README file containing the encrypted message below. 
 
 Encrypted message is below:
 10311738006936619820422752672398904451179005528035093545472155009643919951694239248349579329643695565223526724769356552642275267239890445117900552803509357952664867510694013561535895564927495900353376966983553076494740831331775153783663661737745067536924788247534336208709054954950938916149253255443452912449558593708060456919090048807047088974529122535465279685643868367145509556544952803509357935132559
